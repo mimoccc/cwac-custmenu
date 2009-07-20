@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:boxee="http://boxee.tv/spec/rss" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:live="http://live.com/schema/media/">
+  <channel>
+    <title>Howcast - Most Recent Emerging Filmmaker Videos </title>
+    <link>http://www.howcast.com/videos/-</link>
+    <boxee:display>
+      <boxee:view default="4">
+        <boxee:view-option view-type="line" id="1"/>
+        <boxee:view-option view-type="thumb" id="2"/>
+        <boxee:view-option view-type="thumb-with-preview" id="3"/>
+        <boxee:view-option view-type="detailed-list" id="4"/>
+      </boxee:view>
+    </boxee:display>
+    <atom:link href="http://www.howcast.com/videos.rss?page=2&amp;show=emerging_filmmaker&amp;view=most_recent" rel="next"/>
+    <language>en-us</language>
+    <ttl>40</ttl>
+    <item>
+      <title>How To Peel and Cut a Pineapple</title>
+      <description>
+        <![CDATA[<img src='http://www.howcast.com//system/thumbnails/191691/Picture_3_large.png' height=67 width=120 /><p>Get a taste of the tropics by learning how to prepare a delicious pineapple. </p>
+                  <p><label>Author: </label><a href="http://www.howcast.com/users/sgray9">sgray9</a></p>]]>
+      </description>
+      <pubDate>Wed, 10 Jun 2009 14:04:14 -0700</pubDate>
+      <author>noreply@howcast.com (sgray9)</author>
+      <guid isPermalink="true">http://www.howcast.com/videos/191691-How-To-Peel-and-Cut-a-Pineapple</guid>
+      <link>http://www.howcast.com/videos/191691-How-To-Peel-and-Cut-a-Pineapple</link>
+      <media:player url="http://www.howcast.com/videos/191691-How-To-Peel-and-Cut-a-Pineapple">
+        <![CDATA[<object width="425" height="273" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="howcastplayer"><param name="movie" value="http://www.howcast.com/flash/howcast_player.swf?file=191691"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.howcast.com/flash/howcast_player.swf?file=191691" type="application/x-shockwave-flash" width="425" height="273" allowFullScreen="true" allowScriptAccess="always" ></embed></object>]]>
+      </media:player>
+      <media:thumbnail url="http://www.howcast.com/system/thumbnails/191691/Picture_3_large.png" width="120" height="67"/>
+      <media:title>How To Peel and Cut a Pineapple</media:title>
+      <media:credit>sgray9</media:credit>
+      <media:description>
+        <![CDATA[Get a taste of the tropics by learning how to prepare a delicious pineapple. ]]>
+      </media:description>
+      <media:content type="video/x-flv" lang="en" duration="61" expression="full" medium="video" url="http://media.howcast.com/system/videos/3/91/16/19/191691.flv" width="640" height="360"/>
+      <media:keywords>DIY, Instructional, tutorial, Do It Yourself, Tips, Essential Skills, fruits, vegetables, knife sets, culinary</media:keywords>
+      <media:rating>nonadult</media:rating>
+      <media:category scheme="http://www.howcast.com">Food &amp; Drink/Produce</media:category>
+      <enclosure type="application/x-shockwave-flash" duration="61" url="http://www.howcast.com/flash/howcast_player.swf?file=191691-How-To-Peel-and-Cut-a-Pineapple"/>
+      <live:origReleaseDate>Wed, 10 Jun 2009 14:04:14 -0700</live:origReleaseDate>
+      <live:expireDate>Fri, 10 Jun 2011 16:54:49 -0700</live:expireDate>
+    </item>
+    <item>
+      <title>How To Fold a Pocket Square</title>
+      <description>
+        <![CDATA[<img src='http://www.howcast.com//system/thumbnails/189146/Picture_1_large.png' height=67 width=120 /><p>Everyone knows that dressing for success can give you an edge. Invest in a pocket square and put you and your suit over the top.</p>
+                  <p><label>Author: </label><a href="http://www.howcast.com/users/Semore9">Semore9</a></p>]]>
+      </description>
+      <pubDate>Wed, 10 Jun 2009 13:49:07 -0700</pubDate>
+      <author>noreply@howcast.com (Semore9)</author>
+      <guid isPermalink="true">http://www.howcast.com/videos/189146-How-To-Fold-a-Pocket-Square</guid>
+      <link>http://www.howcast.com/videos/189146-How-To-Fold-a-Pocket-Square</link>
+      <media:player url="http://www.howcast.com/videos/189146-How-To-Fold-a-Pocket-Square">
+        <![CDATA[<object width="425" height="273" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="howcastplayer"><param name="movie" value="http://www.howcast.com/flash/howcast_player.swf?file=189146"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.howcast.com/flash/howcast_player.swf?file=189146" type="application/x-shockwave-flash" width="425" height="273" allowFullScreen="true" allowScriptAccess="always" ></embed></object>]]>
+      </media:player>
+      <media:thumbnail url="http://www.howcast.com/system/thumbnails/189146/Picture_1_large.png" width="120" height="67"/>
+      <media:title>How To Fold a Pocket Square</media:title>
+      <media:credit>Semore9</media:credit>
+      <media:description>
+        <![CDATA[Everyone knows that dressing for success can give you an edge. Invest in a pocket square and put you and your suit over the top.]]>
+      </media:description>
+      <media:content type="video/x-flv" lang="en" duration="79" expression="full" medium="video" url="http://media.howcast.com/system/videos/6/46/91/18/189146.flv" width="640" height="360"/>
+      <media:keywords>personal, style, fashion, suits, ties, folding, pocket, square, dressing, wearing</media:keywords>
+      <media:rating>nonadult</media:rating>
+      <media:category scheme="http://www.howcast.com">Personal Care &amp; Style/Fashion Basics/Suits &amp; Ties</media:category>
+      <enclosure type="application/x-shockwave-flash" duration="79" url="http://www.howcast.com/flash/howcast_player.swf?file=189146-How-To-Fold-a-Pocket-Square"/>
+      <live:origReleaseDate>Wed, 10 Jun 2009 13:49:07 -0700</live:origReleaseDate>
+      <live:expireDate>Fri, 10 Jun 2011 16:54:49 -0700</live:expireDate>
+    </item>
+    <item>
+      <title>How To Care For Dry, Damaged Hair</title>
+      <description>
+        <![CDATA[<img src='http://www.howcast.com//system/thumbnails/191567/Picture_1_large.png' height=67 width=120 /><p>Do frizzy ends and constant flyaway strands sound familiar? Here's how to restore shine and manageability to your tresses.</p>
+                  <p><label>Author: </label><a href="http://www.howcast.com/users/CinemaSlam">CinemaSlam</a></p>]]>
+      </description>
+      <pubDate>Wed, 10 Jun 2009 09:03:14 -0700</pubDate>
+      <author>noreply@howcast.com (CinemaSlam)</author>
+      <guid isPermalink="true">http://www.howcast.com/videos/191567-How-To-Care-For-Dry-Damaged-Hair</guid>
+      <link>http://www.howcast.com/videos/191567-How-To-Care-For-Dry-Damaged-Hair</link>
+      <media:player url="http://www.howcast.com/videos/191567-How-To-Care-For-Dry-Damaged-Hair">
+        <![CDATA[<object width="425" height="273" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="howcastplayer"><param name="movie" value="http://www.howcast.com/flash/howcast_player.swf?file=191567"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.howcast.com/flash/howcast_player.swf?file=191567" type="application/x-shockwave-flash" width="425" height="273" allowFullScreen="true" allowScriptAccess="always" ></embed></object>]]>
+      </media:player>
+      <media:thumbnail url="http://www.howcast.com/system/thumbnails/191567/Picture_1_large.png" width="120" height="67"/>
+      <media:title>How To Care For Dry, Damaged Hair</media:title>
+      <media:credit>CinemaSlam</media:credit>
+      <media:description>
+        <![CDATA[Do frizzy ends and constant flyaway strands sound familiar? Here's how to restore shine and manageability to your tresses.]]>
+      </media:description>
+      <media:content type="video/x-flv" lang="en" duration="96" expression="full" medium="video" url="http://media.howcast.com/system/videos/5/67/15/19/191567.flv" width="640" height="360"/>
+      <media:keywords>personal, style, hair, caring, dry, damaged, styling, taking, care, washing</media:keywords>
+      <media:rating>nonadult</media:rating>
+      <media:category scheme="http://www.howcast.com">Personal Care &amp; Style/Hair/Hair Care</media:category>
+      <enclosure type="application/x-shockwave-flash" duration="96" url="http://www.howcast.com/flash/howcast_player.swf?file=191567-How-To-Care-For-Dry-Damaged-Hair"/>
+      <live:origReleaseDate>Wed, 10 Jun 2009 09:03:14 -0700</live:origReleaseDate>
+      <live:expireDate>Fri, 10 Jun 2011 16:54:49 -0700</live:expireDate>
+    </item>
+    <item>
+      <title>How To Make Paper</title>
+      <description>
+        <![CDATA[<img src='http://www.howcast.com//system/thumbnails/191499/Picture_3_large.png' height=67 width=120 /><p>Whether you’re a back-to-basics type, a thrifty eco-warrior, or an elementary school teacher, this simple recipe for recycled paper will meet your needs.</p>
+                  <p><label>Author: </label><a href="http://www.howcast.com/users/lorishe09">lorishe09</a></p>]]>
+      </description>
+      <pubDate>Wed, 10 Jun 2009 08:17:06 -0700</pubDate>
+      <author>noreply@howcast.com (lorishe09)</author>
+      <guid isPermalink="true">http://www.howcast.com/videos/191499-How-To-Make-Paper</guid>
+      <link>http://www.howcast.com/videos/191499-How-To-Make-Paper</link>
+      <media:player url="http://www.howcast.com/videos/191499-How-To-Make-Paper">
+        <![CDATA[<object width="425" height="352" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="howcastplayer"><param name="movie" value="http://www.howcast.com/flash/howcast_player.swf?file=191499"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.howcast.com/flash/howcast_player.swf?file=191499" type="application/x-shockwave-flash" width="425" height="352" allowFullScreen="true" allowScriptAccess="always" ></embed></object>]]>
+      </media:player>
+      <media:thumbnail url="http://www.howcast.com/system/thumbnails/191499/Picture_3_large.png" width="120" height="67"/>
+      <media:title>How To Make Paper</media:title>
+      <media:credit>lorishe09</media:credit>
+      <media:description>
+        <![CDATA[Whether you’re a back-to-basics type, a thrifty eco-warrior, or an elementary school teacher, this simple recipe for recycled paper will meet your needs.]]>
+      </media:description>
+      <media:content type="video/x-flv" lang="en" duration="98" expression="full" medium="video" url="http://media.howcast.com/system/videos/0/99/14/19/191499.flv" width="480" height="360"/>
+      <media:keywords>crafts, paper, papercrafts, making, projects, homemade, home, yourself, do-it-yourself, recipe</media:keywords>
+      <media:rating>nonadult</media:rating>
+      <media:category scheme="http://www.howcast.com">Crafts &amp; Hobbies/Paper Crafts/General Papercrafts</media:category>
+      <enclosure type="application/x-shockwave-flash" duration="98" url="http://www.howcast.com/flash/howcast_player.swf?file=191499-How-To-Make-Paper"/>
+      <live:origReleaseDate>Wed, 10 Jun 2009 08:17:06 -0700</live:origReleaseDate>
+      <live:expireDate>Fri, 10 Jun 2011 16:54:49 -0700</live:expireDate>
+    </item>
+    <item>
+      <title>How To Test Eggs For Freshness</title>
+      <description>
+        <![CDATA[<img src='http://www.howcast.com//system/thumbnails/191496/Picture_1_large.png' height=67 width=120 /><p>It's easy to find out if your eggs can be scrambled, fried, or used in a recipe - or if they need to be tossed in the trash.</p>
+                  <p><label>Author: </label><a href="http://www.howcast.com/users/lorishe09">lorishe09</a></p>]]>
+      </description>
+      <pubDate>Wed, 10 Jun 2009 07:47:21 -0700</pubDate>
+      <author>noreply@howcast.com (lorishe09)</author>
+      <guid isPermalink="true">http://www.howcast.com/videos/191496-How-To-Test-Eggs-For-Freshness</guid>
+      <link>http://www.howcast.com/videos/191496-How-To-Test-Eggs-For-Freshness</link>
+      <media:player url="http://www.howcast.com/videos/191496-How-To-Test-Eggs-For-Freshness">
+        <![CDATA[<object width="425" height="352" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="howcastplayer"><param name="movie" value="http://www.howcast.com/flash/howcast_player.swf?file=191496"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.howcast.com/flash/howcast_player.swf?file=191496" type="application/x-shockwave-flash" width="425" height="352" allowFullScreen="true" allowScriptAccess="always" ></embed></object>]]>
+      </media:player>
+      <media:thumbnail url="http://www.howcast.com/system/thumbnails/191496/Picture_1_large.png" width="120" height="67"/>
+      <media:title>How To Test Eggs For Freshness</media:title>
+      <media:credit>lorishe09</media:credit>
+      <media:description>
+        <![CDATA[It's easy to find out if your eggs can be scrambled, fried, or used in a recipe - or if they need to be tossed in the trash.]]>
+      </media:description>
+      <media:content type="video/x-flv" lang="en" duration="86" expression="full" medium="video" url="http://media.howcast.com/system/videos/4/96/14/19/191496.flv" width="480" height="360"/>
+      <media:keywords>DIY, Instructional, tutorial, Do It Yourself, Tips, breakfast, Dairy, milk, flour, farm</media:keywords>
+      <media:rating>nonadult</media:rating>
+      <media:category scheme="http://www.howcast.com">Food &amp; Drink/Cooking Basics</media:category>
+      <enclosure type="application/x-shockwave-flash" duration="86" url="http://www.howcast.com/flash/howcast_player.swf?file=191496-How-To-Test-Eggs-For-Freshness"/>
+      <live:origReleaseDate>Wed, 10 Jun 2009 07:47:21 -0700</live:origReleaseDate>
+      <live:expireDate>Fri, 10 Jun 2011 16:54:49 -0700</live:expireDate>
+    </item>
+    <item>
+      <title>How To Make Dessert Crepes</title>
+      <description>
+        <![CDATA[<img src='http://www.howcast.com//system/thumbnails/191498/Picture_2_large.png' height=67 width=120 /><p>Dessert crepes, a sweet French tradition, are delicate pancakes that can be enjoyed with many types of fillings after a meal – or even for breakfast.</p>
+                  <p><label>Author: </label><a href="http://www.howcast.com/users/lorishe09">lorishe09</a></p>]]>
+      </description>
+      <pubDate>Wed, 10 Jun 2009 07:47:21 -0700</pubDate>
+      <author>noreply@howcast.com (lorishe09)</author>
+      <guid isPermalink="true">http://www.howcast.com/videos/191498-How-To-Make-Dessert-Crepes</guid>
+      <link>http://www.howcast.com/videos/191498-How-To-Make-Dessert-Crepes</link>
+      <media:player url="http://www.howcast.com/videos/191498-How-To-Make-Dessert-Crepes">
+        <![CDATA[<object width="425" height="352" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="howcastplayer"><param name="movie" value="http://www.howcast.com/flash/howcast_player.swf?file=191498"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.howcast.com/flash/howcast_player.swf?file=191498" type="application/x-shockwave-flash" width="425" height="352" allowFullScreen="true" allowScriptAccess="always" ></embed></object>]]>
+      </media:player>
+      <media:thumbnail url="http://www.howcast.com/system/thumbnails/191498/Picture_2_large.png" width="120" height="67"/>
+      <media:title>How To Make Dessert Crepes</media:title>
+      <media:credit>lorishe09</media:credit>
+      <media:description>
+        <![CDATA[Dessert crepes, a sweet French tradition, are delicate pancakes that can be enjoyed with many types of fillings after a meal – or even for breakfast.]]>
+      </media:description>
+      <media:content type="video/x-flv" lang="en" duration="142" expression="full" medium="video" url="http://media.howcast.com/system/videos/6/98/14/19/191498.flv" width="480" height="360"/>
+      <media:keywords>food, desserts, crepes, sweets, sugar, making, recipes, french, pancakes, breakfast</media:keywords>
+      <media:rating>nonadult</media:rating>
+      <media:category scheme="http://www.howcast.com">Food &amp; Drink/Desserts/General Desserts</media:category>
+      <enclosure type="application/x-shockwave-flash" duration="142" url="http://www.howcast.com/flash/howcast_player.swf?file=191498-How-To-Make-Dessert-Crepes"/>
+      <live:origReleaseDate>Wed, 10 Jun 2009 07:47:21 -0700</live:origReleaseDate>
+      <live:expireDate>Fri, 10 Jun 2011 16:54:49 -0700</live:expireDate>
+    </item>
+    <item>
+      <title>How To Become a Lifeguard</title>
+      <description>
+        <![CDATA[<img src='http://www.howcast.com//system/thumbnails/191372/Picture_1_large.png' height=67 width=120 /><p>You can freestyle like Michael Phelps, and you love the smell of chlorine. Why not earn cash and save lives at the same time?</p>
+                  <p><label>Author: </label><a href="http://www.howcast.com/users/CinemaSlam">CinemaSlam</a></p>]]>
+      </description>
+      <pubDate>Wed, 10 Jun 2009 07:17:28 -0700</pubDate>
+      <author>noreply@howcast.com (CinemaSlam)</author>
+      <guid isPermalink="true">http://www.howcast.com/videos/191372-How-To-Become-a-Lifeguard</guid>
+      <link>http://www.howcast.com/videos/191372-How-To-Become-a-Lifeguard</link>
+      <media:player url="http://www.howcast.com/videos/191372-How-To-Become-a-Lifeguard">
+        <![CDATA[<object width="425" height="273" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="howcastplayer"><param name="movie" value="http://www.howcast.com/flash/howcast_player.swf?file=191372"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.howcast.com/flash/howcast_player.swf?file=191372" type="application/x-shockwave-flash" width="425" height="273" allowFullScreen="true" allowScriptAccess="always" ></embed></object>]]>
+      </media:player>
+      <media:thumbnail url="http://www.howcast.com/system/thumbnails/191372/Picture_1_large.png" width="120" height="67"/>
+      <media:title>How To Become a Lifeguard</media:title>
+      <media:credit>CinemaSlam</media:credit>
+      <media:description>
+        <![CDATA[You can freestyle like Michael Phelps, and you love the smell of chlorine. Why not earn cash and save lives at the same time?]]>
+      </media:description>
+      <media:content type="video/x-flv" lang="en" duration="142" expression="full" medium="video" url="http://media.howcast.com/system/videos/6/72/13/19/191372.flv" width="640" height="360"/>
+      <media:keywords>sports, fitness, water, safety, safe, first-aid, first, aid, become, becoming</media:keywords>
+      <media:rating>nonadult</media:rating>
+      <media:category scheme="http://www.howcast.com">Sports &amp; Fitness/Water Sports/Water Safety</media:category>
+      <enclosure type="application/x-shockwave-flash" duration="142" url="http://www.howcast.com/flash/howcast_player.swf?file=191372-How-To-Become-a-Lifeguard"/>
+      <live:origReleaseDate>Wed, 10 Jun 2009 07:17:28 -0700</live:origReleaseDate>
+      <live:expireDate>Fri, 10 Jun 2011 16:54:49 -0700</live:expireDate>
+    </item>
+    <item>
+      <title>How To Trick Men Into Thinking You&#8217;re Years Younger</title>
+      <description>
+        <![CDATA[<img src='http://www.howcast.com//system/thumbnails/191433/Picture_2_large.png' height=67 width=120 /><p>“You’re as young as you feel” is a cute saying, but let’s be honest—you’re as young as you look. Here’s how to shave off a few years.</p>
+                  <p><label>Author: </label><a href="http://www.howcast.com/users/CinemaSlam">CinemaSlam</a></p>]]>
+      </description>
+      <pubDate>Wed, 10 Jun 2009 07:17:28 -0700</pubDate>
+      <author>noreply@howcast.com (CinemaSlam)</author>
+      <guid isPermalink="true">http://www.howcast.com/videos/191433-How-To-Trick-Men-Into-Thinking-Youre-Years-Younger</guid>
+      <link>http://www.howcast.com/videos/191433-How-To-Trick-Men-Into-Thinking-Youre-Years-Younger</link>
+      <media:player url="http://www.howcast.com/videos/191433-How-To-Trick-Men-Into-Thinking-Youre-Years-Younger">
+        <![CDATA[<object width="425" height="273" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="howcastplayer"><param name="movie" value="http://www.howcast.com/flash/howcast_player.swf?file=191433"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.howcast.com/flash/howcast_player.swf?file=191433" type="application/x-shockwave-flash" width="425" height="273" allowFullScreen="true" allowScriptAccess="always" ></embed></object>]]>
+      </media:player>
+      <media:thumbnail url="http://www.howcast.com/system/thumbnails/191433/Picture_2_large.png" width="120" height="67"/>
+      <media:title>How To Trick Men Into Thinking You&#8217;re Years Younger</media:title>
+      <media:credit>CinemaSlam</media:credit>
+      <media:description>
+        <![CDATA[“You’re as young as you feel” is a cute saying, but let’s be honest—you’re as young as you look. Here’s how to shave off a few years.]]>
+      </media:description>
+      <media:content type="video/x-flv" lang="en" duration="170" expression="full" medium="video" url="http://media.howcast.com/system/videos/4/33/14/19/191433.flv" width="640" height="360"/>
+      <media:keywords>DIY, Instructional, tutorial, Do It Yourself, Tips, Essential Skills, Learn to, sex, relationships, dating</media:keywords>
+      <media:rating>nonadult</media:rating>
+      <media:category scheme="http://www.howcast.com">Sex &amp; Relationships/Dating/General Dating</media:category>
+      <enclosure type="application/x-shockwave-flash" duration="170" url="http://www.howcast.com/flash/howcast_player.swf?file=191433-How-To-Trick-Men-Into-Thinking-Youre-Years-Younger"/>
+      <live:origReleaseDate>Wed, 10 Jun 2009 07:17:28 -0700</live:origReleaseDate>
+      <live:expireDate>Fri, 10 Jun 2011 16:54:49 -0700</live:expireDate>
+    </item>
+    <item>
+      <title>How To Play Chinese Checkers</title>
+      <description>
+        <![CDATA[<img src='http://www.howcast.com//system/thumbnails/191429/5_large.jpg' height=67 width=120 /><p>Neither Chinese nor checkers, Chinese checkers is a fun game to play. </p>
+                  <p><label>Author: </label><a href="http://www.howcast.com/users/MKF">MKF</a></p>]]>
+      </description>
+      <pubDate>Tue, 09 Jun 2009 15:33:05 -0700</pubDate>
+      <author>noreply@howcast.com (MKF)</author>
+      <guid isPermalink="true">http://www.howcast.com/videos/191429-How-To-Play-Chinese-Checkers</guid>
+      <link>http://www.howcast.com/videos/191429-How-To-Play-Chinese-Checkers</link>
+      <media:player url="http://www.howcast.com/videos/191429-How-To-Play-Chinese-Checkers">
+        <![CDATA[<object width="425" height="273" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="howcastplayer"><param name="movie" value="http://www.howcast.com/flash/howcast_player.swf?file=191429"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.howcast.com/flash/howcast_player.swf?file=191429" type="application/x-shockwave-flash" width="425" height="273" allowFullScreen="true" allowScriptAccess="always" ></embed></object>]]>
+      </media:player>
+      <media:thumbnail url="http://www.howcast.com/system/thumbnails/191429/5_large.jpg" width="120" height="67"/>
+      <media:title>How To Play Chinese Checkers</media:title>
+      <media:credit>MKF</media:credit>
+      <media:description>
+        <![CDATA[Neither Chinese nor checkers, Chinese checkers is a fun game to play. ]]>
+      </media:description>
+      <media:content type="video/x-flv" lang="en" duration="75" expression="full" medium="video" url="http://media.howcast.com/system/videos/0/29/14/19/191429.flv" width="640" height="360"/>
+      <media:keywords>games, board, family, rules, instructions, playing, learning, chinese, checkers</media:keywords>
+      <media:rating>nonadult</media:rating>
+      <media:category scheme="http://www.howcast.com">Games/Board Games &amp; Family Games</media:category>
+      <enclosure type="application/x-shockwave-flash" duration="75" url="http://www.howcast.com/flash/howcast_player.swf?file=191429-How-To-Play-Chinese-Checkers"/>
+      <live:origReleaseDate>Tue, 09 Jun 2009 15:33:05 -0700</live:origReleaseDate>
+      <live:expireDate>Fri, 10 Jun 2011 16:54:49 -0700</live:expireDate>
+    </item>
+    <item>
+      <title>How To Prevent Pipes From Freezing</title>
+      <description>
+        <![CDATA[<img src='http://www.howcast.com//system/thumbnails/188536/Picture_3_large.png' height=67 width=120 /><p>About a quarter of a million homes sustain damage from broken pipes every winter. Here's how to avoid a similar fate.</p>
+                  <p><label>Author: </label><a href="http://www.howcast.com/users/jamiep">jamiep</a></p>]]>
+      </description>
+      <pubDate>Tue, 09 Jun 2009 14:02:54 -0700</pubDate>
+      <author>noreply@howcast.com (jamiep)</author>
+      <guid isPermalink="true">http://www.howcast.com/videos/188536-How-To-Prevent-Pipes-From-Freezing</guid>
+      <link>http://www.howcast.com/videos/188536-How-To-Prevent-Pipes-From-Freezing</link>
+      <media:player url="http://www.howcast.com/videos/188536-How-To-Prevent-Pipes-From-Freezing">
+        <![CDATA[<object width="425" height="273" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="howcastplayer"><param name="movie" value="http://www.howcast.com/flash/howcast_player.swf?file=188536"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.howcast.com/flash/howcast_player.swf?file=188536" type="application/x-shockwave-flash" width="425" height="273" allowFullScreen="true" allowScriptAccess="always" ></embed></object>]]>
+      </media:player>
+      <media:thumbnail url="http://www.howcast.com/system/thumbnails/188536/Picture_3_large.png" width="120" height="67"/>
+      <media:title>How To Prevent Pipes From Freezing</media:title>
+      <media:credit>jamiep</media:credit>
+      <media:description>
+        <![CDATA[About a quarter of a million homes sustain damage from broken pipes every winter. Here's how to avoid a similar fate.]]>
+      </media:description>
+      <media:content type="video/x-flv" lang="en" duration="93" expression="full" medium="video" url="http://media.howcast.com/system/videos/5/36/85/18/188536.flv" width="640" height="360"/>
+      <media:keywords>house, home, plumbing, freezing, winter, protecting, preventing, damaging, ice, good</media:keywords>
+      <media:rating>nonadult</media:rating>
+      <media:category scheme="http://www.howcast.com">House &amp; Garden/Plumbing/General Plumbing</media:category>
+      <enclosure type="application/x-shockwave-flash" duration="93" url="http://www.howcast.com/flash/howcast_player.swf?file=188536-How-To-Prevent-Pipes-From-Freezing"/>
+      <live:origReleaseDate>Tue, 09 Jun 2009 14:02:54 -0700</live:origReleaseDate>
+      <live:expireDate>Fri, 10 Jun 2011 16:54:49 -0700</live:expireDate>
+    </item>
+    <item>
+      <title>How To Relieve Nausea With Acupressure</title>
+      <description>
+        <![CDATA[<img src='http://www.howcast.com//system/thumbnails/188574/30_large.jpg' height=67 width=120 /><p>Stop that horrible sensation with a form of traditional Chinese medicine known as acupressure. </p>
+                  <p><label>Author: </label><a href="http://www.howcast.com/users/sen1710">sen1710</a></p>]]>
+      </description>
+      <pubDate>Tue, 09 Jun 2009 14:02:54 -0700</pubDate>
+      <author>noreply@howcast.com (sen1710)</author>
+      <guid isPermalink="true">http://www.howcast.com/videos/188574-How-To-Relieve-Nausea-With-Acupressure</guid>
+      <link>http://www.howcast.com/videos/188574-How-To-Relieve-Nausea-With-Acupressure</link>
+      <media:player url="http://www.howcast.com/videos/188574-How-To-Relieve-Nausea-With-Acupressure">
+        <![CDATA[<object width="425" height="273" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="howcastplayer"><param name="movie" value="http://www.howcast.com/flash/howcast_player.swf?file=188574"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.howcast.com/flash/howcast_player.swf?file=188574" type="application/x-shockwave-flash" width="425" height="273" allowFullScreen="true" allowScriptAccess="always" ></embed></object>]]>
+      </media:player>
+      <media:thumbnail url="http://www.howcast.com/system/thumbnails/188574/30_large.jpg" width="120" height="67"/>
+      <media:title>How To Relieve Nausea With Acupressure</media:title>
+      <media:credit>sen1710</media:credit>
+      <media:description>
+        <![CDATA[Stop that horrible sensation with a form of traditional Chinese medicine known as acupressure. ]]>
+      </media:description>
+      <media:content type="video/x-flv" lang="en" duration="68" expression="full" medium="video" url="http://media.howcast.com/system/videos/1/74/85/18/188574.flv" width="640" height="360"/>
+      <media:keywords>DIY, Instructional, tutorial, Bloating, cramps, headaches, pain, weight gain, vomiting, upset stomach</media:keywords>
+      <media:rating>nonadult</media:rating>
+      <media:category scheme="http://www.howcast.com">Mind &amp; Body/Alternative Medicine &amp; Natural Healing/Acupressure &amp; Acupuncture</media:category>
+      <enclosure type="application/x-shockwave-flash" duration="68" url="http://www.howcast.com/flash/howcast_player.swf?file=188574-How-To-Relieve-Nausea-With-Acupressure"/>
+      <live:origReleaseDate>Tue, 09 Jun 2009 14:02:54 -0700</live:origReleaseDate>
+      <live:expireDate>Fri, 10 Jun 2011 16:54:49 -0700</live:expireDate>
+    </item>
+    <item>
+      <title>How To Stay Calm When Your Wife Is in Labor</title>
+      <description>
+        <![CDATA[<img src='http://www.howcast.com//system/thumbnails/191228/Picture_1_large.png' height=67 width=120 /><p>You’d like to be strong and supportive for your wife in the delivery room… if only your knees would stop knocking. Keep both of you from freaking out with these tricks.</p>
+                  <p><label>Author: </label><a href="http://www.howcast.com/users/chanpanzee">chanpanzee</a></p>]]>
+      </description>
+      <pubDate>Mon, 08 Jun 2009 14:47:08 -0700</pubDate>
+      <author>noreply@howcast.com (chanpanzee)</author>
+      <guid isPermalink="true">http://www.howcast.com/videos/191228-How-To-Stay-Calm-When-Your-Wife-Is-in-Labor</guid>
+      <link>http://www.howcast.com/videos/191228-How-To-Stay-Calm-When-Your-Wife-Is-in-Labor</link>
+      <media:player url="http://www.howcast.com/videos/191228-How-To-Stay-Calm-When-Your-Wife-Is-in-Labor">
+        <![CDATA[<object width="425" height="273" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="howcastplayer"><param name="movie" value="http://www.howcast.com/flash/howcast_player.swf?file=191228"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.howcast.com/flash/howcast_player.swf?file=191228" type="application/x-shockwave-flash" width="425" height="273" allowFullScreen="true" allowScriptAccess="always" ></embed></object>]]>
+      </media:player>
+      <media:thumbnail url="http://www.howcast.com/system/thumbnails/191228/Picture_1_large.png" width="120" height="67"/>
+      <media:title>How To Stay Calm When Your Wife Is in Labor</media:title>
+      <media:credit>chanpanzee</media:credit>
+      <media:description>
+        <![CDATA[You’d like to be strong and supportive for your wife in the delivery room… if only your knees would stop knocking. Keep both of you from freaking out with these tricks.]]>
+      </media:description>
+      <media:content type="video/x-flv" lang="en" duration="152" expression="full" medium="video" url="http://media.howcast.com/system/videos/2/28/12/19/191228.flv" width="640" height="360"/>
+      <media:keywords>DIY, Instructional, tutorial, Do It Yourself, Tips, Essential Skills, Learn to, parenting, pregnancy, family</media:keywords>
+      <media:rating>nonadult</media:rating>
+      <media:category scheme="http://www.howcast.com">Parenting &amp; Family/Pregnancy/Delivery &amp; Childbirth</media:category>
+      <enclosure type="application/x-shockwave-flash" duration="152" url="http://www.howcast.com/flash/howcast_player.swf?file=191228-How-To-Stay-Calm-When-Your-Wife-Is-in-Labor"/>
+      <live:origReleaseDate>Mon, 08 Jun 2009 14:47:08 -0700</live:origReleaseDate>
+      <live:expireDate>Fri, 10 Jun 2011 16:54:49 -0700</live:expireDate>
+    </item>
+    <item>
+      <title>How To Convert Photos To Digital</title>
+      <description>
+        <![CDATA[<img src='http://www.howcast.com//system/thumbnails/191199/Picture_3_large.png' height=67 width=120 /><p>Buying a digital camera doesn't mean your old prints, slides, or negatives are obsolete. You can easily convert them with a scanner to bring them into the 21st century.</p>
+                  <p><label>Author: </label><a href="http://www.howcast.com/users/Equilibrio">Equilibrio</a></p>]]>
+      </description>
+      <pubDate>Mon, 08 Jun 2009 13:33:09 -0700</pubDate>
+      <author>noreply@howcast.com (Equilibrio)</author>
+      <guid isPermalink="true">http://www.howcast.com/videos/191199-How-To-Convert-Photos-To-Digital</guid>
+      <link>http://www.howcast.com/videos/191199-How-To-Convert-Photos-To-Digital</link>
+      <media:player url="http://www.howcast.com/videos/191199-How-To-Convert-Photos-To-Digital">
+        <![CDATA[<object width="425" height="273" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="howcastplayer"><param name="movie" value="http://www.howcast.com/flash/howcast_player.swf?file=191199"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.howcast.com/flash/howcast_player.swf?file=191199" type="application/x-shockwave-flash" width="425" height="273" allowFullScreen="true" allowScriptAccess="always" ></embed></object>]]>
+      </media:player>
+      <media:thumbnail url="http://www.howcast.com/system/thumbnails/191199/Picture_3_large.png" width="120" height="67"/>
+      <media:title>How To Convert Photos To Digital</media:title>
+      <media:credit>Equilibrio</media:credit>
+      <media:description>
+        <![CDATA[Buying a digital camera doesn't mean your old prints, slides, or negatives are obsolete. You can easily convert them with a scanner to bring them into the 21st century.]]>
+      </media:description>
+      <media:content type="video/x-flv" lang="en" duration="126" expression="full" medium="video" url="http://media.howcast.com/system/videos/1/99/11/19/191199.flv" width="640" height="360"/>
+      <media:keywords>DIY, Instructional, tutorial, Do It Yourself, Tips, camera, photographs, pictures, pics, scrapbook</media:keywords>
+      <media:rating>nonadult</media:rating>
+      <media:category scheme="http://www.howcast.com">Technology/Computer Software/Multimedia Software</media:category>
+      <enclosure type="application/x-shockwave-flash" duration="126" url="http://www.howcast.com/flash/howcast_player.swf?file=191199-How-To-Convert-Photos-To-Digital"/>
+      <live:origReleaseDate>Mon, 08 Jun 2009 13:33:09 -0700</live:origReleaseDate>
+      <live:expireDate>Fri, 10 Jun 2011 16:54:49 -0700</live:expireDate>
+    </item>
+    <item>
+      <title>How To Choose the Right Dog Breed For You</title>
+      <description>
+        <![CDATA[<img src='http://www.howcast.com//system/thumbnails/191200/Picture_7_large.png' height=67 width=120 /><p>Bringing a pet into your household is an important decision. Consider these factors when choosing a breed. </p>
+                  <p><label>Author: </label><a href="http://www.howcast.com/users/Equilibrio">Equilibrio</a></p>]]>
+      </description>
+      <pubDate>Mon, 08 Jun 2009 13:33:09 -0700</pubDate>
+      <author>noreply@howcast.com (Equilibrio)</author>
+      <guid isPermalink="true">http://www.howcast.com/videos/191200-How-To-Choose-the-Right-Dog-Breed-For-You</guid>
+      <link>http://www.howcast.com/videos/191200-How-To-Choose-the-Right-Dog-Breed-For-You</link>
+      <media:player url="http://www.howcast.com/videos/191200-How-To-Choose-the-Right-Dog-Breed-For-You">
+        <![CDATA[<object width="425" height="273" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="howcastplayer"><param name="movie" value="http://www.howcast.com/flash/howcast_player.swf?file=191200"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.howcast.com/flash/howcast_player.swf?file=191200" type="application/x-shockwave-flash" width="425" height="273" allowFullScreen="true" allowScriptAccess="always" ></embed></object>]]>
+      </media:player>
+      <media:thumbnail url="http://www.howcast.com/system/thumbnails/191200/Picture_7_large.png" width="120" height="67"/>
+      <media:title>How To Choose the Right Dog Breed For You</media:title>
+      <media:credit>Equilibrio</media:credit>
+      <media:description>
+        <![CDATA[Bringing a pet into your household is an important decision. Consider these factors when choosing a breed. ]]>
+      </media:description>
+      <media:content type="video/x-flv" lang="en" duration="108" expression="full" medium="video" url="http://media.howcast.com/system/videos/2/00/12/19/191200.flv" width="640" height="360"/>
+      <media:keywords>DIY, Instructional, tutorial, Do It Yourself, Tips, pets, labador, pitbull, Terrier, poodle</media:keywords>
+      <media:rating>nonadult</media:rating>
+      <media:category scheme="http://www.howcast.com">Pets/Dogs/General Dogs</media:category>
+      <enclosure type="application/x-shockwave-flash" duration="108" url="http://www.howcast.com/flash/howcast_player.swf?file=191200-How-To-Choose-the-Right-Dog-Breed-For-You"/>
+      <live:origReleaseDate>Mon, 08 Jun 2009 13:33:09 -0700</live:origReleaseDate>
+      <live:expireDate>Fri, 10 Jun 2011 16:54:49 -0700</live:expireDate>
+    </item>
+    <item>
+      <title>How To Make Time For Yourself</title>
+      <description>
+        <![CDATA[<img src='http://www.howcast.com//system/thumbnails/191099/Picture_2_large.png' height=67 width=120 /><p>Has it been ages since you were able to take a nap, read a book, or simply catch your breath? Finding "me" time isn't easy, but it can be done.</p>
+                  <p><label>Author: </label><a href="http://www.howcast.com/users/CaptureMotion">CaptureMotion</a></p>]]>
+      </description>
+      <pubDate>Mon, 08 Jun 2009 09:03:29 -0700</pubDate>
+      <author>noreply@howcast.com (CaptureMotion)</author>
+      <guid isPermalink="true">http://www.howcast.com/videos/191099-How-To-Make-Time-For-Yourself</guid>
+      <link>http://www.howcast.com/videos/191099-How-To-Make-Time-For-Yourself</link>
+      <media:player url="http://www.howcast.com/videos/191099-How-To-Make-Time-For-Yourself">
+        <![CDATA[<object width="425" height="273" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="howcastplayer"><param name="movie" value="http://www.howcast.com/flash/howcast_player.swf?file=191099"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.howcast.com/flash/howcast_player.swf?file=191099" type="application/x-shockwave-flash" width="425" height="273" allowFullScreen="true" allowScriptAccess="always" ></embed></object>]]>
+      </media:player>
+      <media:thumbnail url="http://www.howcast.com/system/thumbnails/191099/Picture_2_large.png" width="120" height="67"/>
+      <media:title>How To Make Time For Yourself</media:title>
+      <media:credit>CaptureMotion</media:credit>
+      <media:description>
+        <![CDATA[Has it been ages since you were able to take a nap, read a book, or simply catch your breath? Finding "me" time isn't easy, but it can be done.]]>
+      </media:description>
+      <media:content type="video/x-flv" lang="en" duration="130" expression="full" medium="video" url="http://media.howcast.com/system/videos/6/99/10/19/191099.flv" width="640" height="360"/>
+      <media:keywords>me, DIY, Instructional, tutorial, Do It Yourself, Tips, Essential Skills, Learn to, mind, make</media:keywords>
+      <media:rating>nonadult</media:rating>
+      <media:category scheme="http://www.howcast.com">Mind &amp; Body/General Mind &amp; Body</media:category>
+      <enclosure type="application/x-shockwave-flash" duration="130" url="http://www.howcast.com/flash/howcast_player.swf?file=191099-How-To-Make-Time-For-Yourself"/>
+      <live:origReleaseDate>Mon, 08 Jun 2009 09:03:29 -0700</live:origReleaseDate>
+      <live:expireDate>Fri, 10 Jun 2011 16:54:49 -0700</live:expireDate>
+    </item>
+    <item>
+      <title>How To Give Medication To a Rabbit</title>
+      <description>
+        <![CDATA[<img src='http://www.howcast.com//system/thumbnails/190878/Picture_1_large.png' height=67 width=120 /><p>Just like the rest of us, rabbits will take medicine more easily if it tastes good. But if you’re stuck with the old-fashioned, bad-tasting kind, here’s how to make the medicine go down.</p>
+                  <p><label>Author: </label><a href="http://www.howcast.com/users/DimitriL">DimitriL</a></p>]]>
+      </description>
+      <pubDate>Mon, 08 Jun 2009 08:47:01 -0700</pubDate>
+      <author>noreply@howcast.com (DimitriL)</author>
+      <guid isPermalink="true">http://www.howcast.com/videos/190878-How-To-Give-Medication-To-a-Rabbit</guid>
+      <link>http://www.howcast.com/videos/190878-How-To-Give-Medication-To-a-Rabbit</link>
+      <media:player url="http://www.howcast.com/videos/190878-How-To-Give-Medication-To-a-Rabbit">
+        <![CDATA[<object width="425" height="273" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="howcastplayer"><param name="movie" value="http://www.howcast.com/flash/howcast_player.swf?file=190878"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.howcast.com/flash/howcast_player.swf?file=190878" type="application/x-shockwave-flash" width="425" height="273" allowFullScreen="true" allowScriptAccess="always" ></embed></object>]]>
+      </media:player>
+      <media:thumbnail url="http://www.howcast.com/system/thumbnails/190878/Picture_1_large.png" width="120" height="67"/>
+      <media:title>How To Give Medication To a Rabbit</media:title>
+      <media:credit>DimitriL</media:credit>
+      <media:description>
+        <![CDATA[Just like the rest of us, rabbits will take medicine more easily if it tastes good. But if you’re stuck with the old-fashioned, bad-tasting kind, here’s how to make the medicine go down.]]>
+      </media:description>
+      <media:content type="video/x-flv" lang="en" duration="170" expression="full" medium="video" url="http://media.howcast.com/system/videos/2/78/08/19/190878.flv" width="640" height="360"/>
+      <media:keywords>DIY, Instructional, tutorial, Do It Yourself, Tips, Essential Skills, Learn to, pets, animal, animals</media:keywords>
+      <media:rating>nonadult</media:rating>
+      <media:category scheme="http://www.howcast.com">Pets/Rabbits</media:category>
+      <enclosure type="application/x-shockwave-flash" duration="170" url="http://www.howcast.com/flash/howcast_player.swf?file=190878-How-To-Give-Medication-To-a-Rabbit"/>
+      <live:origReleaseDate>Mon, 08 Jun 2009 08:47:01 -0700</live:origReleaseDate>
+      <live:expireDate>Fri, 10 Jun 2011 16:54:49 -0700</live:expireDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CWAC: CustomMenu</string>
+    <string name="item_one">Item One</string>
+    <string name="item_two">Item Two</string>
+    <string name="item_three">Item Three</string>
+    <string name="item_four">Item Four</string>
+</resources>
