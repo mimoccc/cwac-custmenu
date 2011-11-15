@@ -1,6 +1,8 @@
 CWAC CustomMenu: Putting Users In Control
 =========================================
 
+**THIS PROJECT IS DISCONTINUED &mdash; USE AT YOUR OWN RISK**
+
 This framework allows you to have a option menu whose order
 is customizable by end users. You can have fixed-position
 items at the beginning or end, plus a configurable set of
@@ -41,8 +43,5 @@ file.
 
 Questions
 ---------
-If you have questions regarding the use of this code, please
-join and ask them on the [cw-android Google Group][gg]. Be sure to
-indicate which CWAC module you have questions about.
+**THIS PROJECT IS UNSUPPORTED**
 
-[gg]: http://groups.google.com/group/cw-android
